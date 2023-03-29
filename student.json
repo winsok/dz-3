@@ -1,0 +1,43 @@
+{
+  "student:": {
+    "general data": {
+      "firsname": "James",
+      "lastname": "Brown",
+      "age": 20,
+      "gender": "male",
+	  "islazy": false,
+      "classes attending": {
+        "Monday": [
+          "algebra",
+          "geometry",
+          "physics",
+          "chemistry"
+        ],
+        "Tuesday": [
+          "algebra",
+          "geometry",
+          "physics",
+          "chemistry"
+        ],
+        "Wednesday": [
+          "algebra",
+          "geometry",
+          "physics",
+          "chemistry"
+        ],
+        "Thursday": [
+          "algebra",
+          "geometry",
+          "physics",
+          "chemistry"
+        ],
+        "Friday": [
+          "algebra",
+          "geometry",
+          "physics",
+          "chemistry"
+        ]
+      }
+    }
+  }
+}
