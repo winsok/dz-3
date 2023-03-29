@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<student:>
+		<general_data>
+			<firsname>James</firsname>
+			<lastname>Brown</lastname>
+			<age>20</age>
+			<gender>male</gender>
+			<islazy>false</islazy>
+			<classes_attending>
+				<Monday>algebra</Monday>
+				<Monday>geometry</Monday>
+				<Monday>physics</Monday>
+				<Monday>chemistry</Monday>
+				<Tuesday>algebra</Tuesday>
+				<Tuesday>geometry</Tuesday>
+				<Tuesday>physics</Tuesday>
+				<Tuesday>chemistry</Tuesday>
+				<Wednesday>algebra</Wednesday>
+				<Wednesday>geometry</Wednesday>
+				<Wednesday>physics</Wednesday>
+				<Wednesday>chemistry</Wednesday>
+				<Thursday>algebra</Thursday>
+				<Thursday>geometry</Thursday>
+				<Thursday>physics</Thursday>
+				<Thursday>chemistry</Thursday>
+				<Friday>algebra</Friday>
+				<Friday>geometry</Friday>
+				<Friday>physics</Friday>
+				<Friday>chemistry</Friday>
+			</classes_attending>
+		</general_data>
+	</student:>
+</root>
